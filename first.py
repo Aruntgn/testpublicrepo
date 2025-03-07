@@ -5,3 +5,5 @@ text_list = ocr.predict(img_path)
 for text in text_list:
   print(text)
 
+
+
